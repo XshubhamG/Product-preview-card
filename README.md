@@ -30,7 +30,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: https://github.com/XshubhamG/Product-preview-card
-- Live Site URL: https://xshubhamg.github.io/Product-preview-card/
+- Live Site URL: https://shimmering-centaur-a8c1cd.netlify.app
 
 
 ## My process
