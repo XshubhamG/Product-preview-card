@@ -29,8 +29,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: 
-- Live Site URL:
+- Solution URL: https://github.com/XshubhamG/Product-preview-card
+- Live Site URL: https://xshubhamg.github.io/Product-preview-card/
 
 
 ## My process
